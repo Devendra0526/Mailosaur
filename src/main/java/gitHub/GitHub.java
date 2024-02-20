@@ -13,5 +13,6 @@ public class GitHub {
 		System.out.println("user1 changes");
 		System.out.println("user2 changes");
 		System.out.println("master changes");
+		System.out.println("user3 changes");
 	}
 }
